@@ -1,5 +1,5 @@
 <?php
-require_once 'SampleApp.php';
+include 'SampleApp.php';
 
 /**
  * サンプルプログラム

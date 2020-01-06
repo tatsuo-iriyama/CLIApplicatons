@@ -1,5 +1,5 @@
 <?php
-require_once 'App.php';
+include '../Common/App.php';
 
 /**
  * アプリケーション本体
