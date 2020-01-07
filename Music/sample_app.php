@@ -4,7 +4,7 @@ include 'SampleApp.php';
 /**
  * サンプルプログラム
  *
- * 天気の情報を入力し、メッセージを出力するCLI(Command Line Interface)アプリケーション
+ * 好きな音楽をアンケート形式でヒアリングするCLI(Command Line Interface)アプリケーション
  */
 $sampleApp = new SampleApp();
 $sampleApp->execute();
